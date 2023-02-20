@@ -1,8 +1,10 @@
+![I’m an experienced press officer making a career change from public relations to software development.](https://pbs.twimg.com/profile_banners/1189173258429648897/1675423077/1500x500)
+
 ### Hi there 👋, my name's Rob
 
 #### I'm a I’m an experienced press officer making a career change from public relations to software development.
 
-I'm a I’m an experienced press officer making a career change from public relations to software development
+I’m an experienced press officer making a career change from public relations to software development
 
 I’ve got a passion for problem-solving and learning new technologies, with a slight obsession with linear gradients.
 
