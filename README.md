@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Rob 👋
+
+I’m an experienced press officer making a career change from public relations to software development. 
+
+I’ve got a passion for problem-solving and learning new technologies, with a slight obsession with linear gradients.
+
+In my spare time, I host a podcast for developers by developers called Codewords. It's an informal coffee chat with code newbies, senior engineers and more.    
+
+If I’m not at my desk you’ll find me cycling or taking on a hiking trail.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjrobbie&hide=contribs,prs)
 
 <!--
 **rjrobbie/rjrobbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
