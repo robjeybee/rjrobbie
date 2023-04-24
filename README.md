@@ -2,15 +2,13 @@
 
 ### Hi there 👋, my name's Rob
 
-#### I’m an experienced press officer making a career change from public relations to software development.
+#### I'm a press officer excited to career change into software development. I'm enrolled in the Command Shift bootcamp, mastering the latest development tools, and techniques. As the host of the Codewords podcast, I share insights from amazing developers worldwide. Drop me a message and let's grab a virtual coffee chat. 
 
 I’ve got a passion for problem-solving and learning new technologies, with a slight obsession with linear gradients.
 
-In my spare time, I host a podcast for developers by developers called Codewords. It's an informal coffee chat with code newbies, senior engineers and more.
-
 If I’m not at my desk you’ll find me cycling or taking on a hiking trail.
 
-Skills: HTML | CSS | JavaScript | SQL | Docker
+Skills: HTML | CSS | JavaScript | React | Docker | SQL | Postman | Express.js | Firebase | Npm | GitHub | CLI | Agile | TDD | OOP
 
 <!--
 **rjrobbie/rjrobbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
