@@ -1,4 +1,4 @@
-![I’m an experienced press officer making a career change from public relations to software development.](https://pbs.twimg.com/profile_banners/1189173258429648897/1675423077/1500x500)
+![I’m an experienced press officer making a career change from public relations to software development.](https://media.licdn.com/dms/image/D5616AQHkgavXxvJ8Uw/profile-displaybackgroundimage-shrink_350_1400/0/1682347302934?e=1687996800&v=beta&t=Lwx1dZVFWXoj4sxmSLbRUnASg2O80aN_JqFaxsPBvSo)
 
 ### Hi there 👋, my name's Rob
 
