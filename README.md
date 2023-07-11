@@ -1,14 +1,8 @@
-![I’m an experienced press officer making a career change from public relations to software development.](https://media.licdn.com/dms/image/D5616AQHkgavXxvJ8Uw/profile-displaybackgroundimage-shrink_350_1400/0/1682347302934?e=1687996800&v=beta&t=Lwx1dZVFWXoj4sxmSLbRUnASg2O80aN_JqFaxsPBvSo)
+![Alt text](https://media.licdn.com/dms/image/D4E16AQH9AjK01CSuIQ/profile-displaybackgroundimage-shrink_350_1400/0/1689082685691?e=1694649600&v=beta&t=rQLK_vvSDDDyV4axDBb07k_YDAHuj2281wSP6CnZIIU)
 
-### Hi there 👋, my name's Rob
+### Front End Developer (React | JavaScript | Docker)
 
-#### I'm a press officer excited to career change into software development. I'm enrolled in the Command Shift bootcamp, mastering the latest development tools, and techniques. As the host of the Codewords podcast, I share insights from amazing developers worldwide. Drop me a message and let's grab a virtual coffee chat. 
-
-I’ve got a passion for problem-solving and learning new technologies, with a slight obsession with linear gradients.
-
-If I’m not at my desk you’ll find me cycling or taking on a hiking trail.
-
-Skills: HTML | CSS | JavaScript | React | Docker | SQL | Postman | Express.js | Firebase | Npm | GitHub | CLI | Agile | TDD | OOP
+### Hey, I'm Rob 👏 I'm a frontend developer career switching into tech. I’ve got a passion for problem-solving in JavaScript and React. In my spare time, I host a podcast for developers by developers called Codewords. It's an informal coffee chat with code newbies, senior engineers and more.
 
 <!--
 **rjrobbie/rjrobbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
