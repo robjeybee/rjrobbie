@@ -1,4 +1,4 @@
-![Alt text](https://media.licdn.com/dms/image/D4E16AQH9AjK01CSuIQ/profile-displaybackgroundimage-shrink_350_1400/0/1689082685691?e=1694649600&v=beta&t=rQLK_vvSDDDyV4axDBb07k_YDAHuj2281wSP6CnZIIU)
+![Alt text](https://media.licdn.com/dms/image/D4E16AQF7Kva2T8ompg/profile-displaybackgroundimage-shrink_350_1400/0/1689090906200?e=1694649600&v=beta&t=M09_Rj9pSMDL64bJWJ_mP2-lnB7UQhrmFhxPgo04cvU)
 
 #### Hey, I'm Rob 👏 I'm a frontend developer career switching into tech. I’ve got a passion for problem-solving in JavaScript and React. In my spare time, I host a podcast for developers by developers called Codewords. It's an informal coffee chat with code newbies, senior engineers and more.
 
