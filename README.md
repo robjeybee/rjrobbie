@@ -2,7 +2,7 @@
 
 ### Front End Developer (React | JavaScript | Docker)
 
-### Hey, I'm Rob 👏 I'm a frontend developer career switching into tech. I’ve got a passion for problem-solving in JavaScript and React. In my spare time, I host a podcast for developers by developers called Codewords. It's an informal coffee chat with code newbies, senior engineers and more.
+##### Hey, I'm Rob 👏 I'm a frontend developer career switching into tech. I’ve got a passion for problem-solving in JavaScript and React. In my spare time, I host a podcast for developers by developers called Codewords. It's an informal coffee chat with code newbies, senior engineers and more.
 
 <!--
 **rjrobbie/rjrobbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
